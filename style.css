@@ -175,8 +175,7 @@ h4 {
 }
 .nav ul li {
     justify-content: space-between;
-    padding: 6px;
-    margin-right: 40%;
+    padding: 15px;
 }
 .body {
     padding: 50px
